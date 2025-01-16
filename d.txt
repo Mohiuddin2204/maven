@@ -1,0 +1,16 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< clinic.programming:maven >----------------------
+[INFO] Building maven 1.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- dependency:3.7.0:tree (default-cli) @ maven ---
+[INFO] clinic.programming:maven:jar:1.0
+[INFO] \- org.apache.commons:commons-lang3:jar:3.17.0:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.135 s
+[INFO] Finished at: 2025-01-16T07:16:15Z
+[INFO] ------------------------------------------------------------------------
